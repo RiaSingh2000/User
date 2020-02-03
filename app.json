@@ -25,6 +25,15 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "android": {
+      "package": "com.kiwidev.user",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyB9G6I7Lf68PNOHZpWGPVDQbBpt6cFbRGs"
+        }
+      }
+    },
+    "description": ""
   }
 }
